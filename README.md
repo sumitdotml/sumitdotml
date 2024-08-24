@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Sumit 👋
 
-<!--
-**sumitdotml/sumitdotml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_drinking coffee, enjoying nature, learning AI..._
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- 🔭 A SWE based in Japan
+- 🌱 Currently learning:
+  - Web programming (JavaScript, TypeScript, React, Node.js)
+  AI-stuff (Linear Algebra, Deep Learning, LLM-training, and so on)
+
+- 📫 How to reach out to me:
+  - <a href="mailto:sumit@sumit.ml">Send me an email </a> or
+  - Send me a DM on [Twitter](https://x.com/idosumit).
