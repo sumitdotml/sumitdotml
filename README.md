@@ -1,13 +1,9 @@
-_drinking coffee, enjoying nature, learning AI..._
+Tokyo-based SWE. Amateur ML learner. On a journey to self-learn & gain a deeper understanding of ML.
 
-### About me
-- SWE based in Japan
-- Currently (self) studying:
-  - ML
-  - Math (Calculus, Linear Algebra)
+I document my learning journey on my [website](https://www.sumit.ml). Take a look if you're interested! :)
 
 #
 
-### If you wanna reach out:
+#### If you wanna reach out:
   - <a href="mailto:sumit@sumit.ml">Send me an email </a> or
   - Send me a DM on [Twitter](https://x.com/sumitdotml).
