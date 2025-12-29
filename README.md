@@ -4,4 +4,4 @@ I write blogs & research worklogs on my [site](https://sumit.ml); take a look if
 
 #### If you wanna reach out:
   - send me an email: myname{@}mywebsitedomain
-  - send me a DM on [Twitter](https://x.com/sumitdotml)
+  - DM me on [Twitter](https://x.com/sumitdotml)
