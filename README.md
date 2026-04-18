@@ -1,4 +1,4 @@
-swe. learning how to think in matrices
+mle. learning how to think in matrices
 
 i write blogs & research worklogs on my [site](https://sumit.ml); take a look if you're interested!
 
